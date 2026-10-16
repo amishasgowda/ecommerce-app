@@ -1,4 +1,20 @@
-
+git statusi
+git stash listgit status
+git stash list
 Payment Timeout Handling
 - Payment requests are monitored for timeout conditions.
 - Timed-out payments are marked for retry.
+
+
+
+git switch master
+git pull --ff-only
+git switch -c feature/order-notifications
+git status
+
+
+
+
+Order Notifications
+- Customers receive notifications when their order status changes.
+- Customers can manage their notification preferences.
