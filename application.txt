@@ -18,3 +18,8 @@ git status
 Order Notifications
 - Customers receive notifications when their order status changes.
 - Customers can manage their notification preferences.
+
+
+Order Cancellation
+- Customers can cancel eligible orders.
+- Cancellation status is recorded for the order.
