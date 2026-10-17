@@ -35,3 +35,7 @@ Customer Reviews
 Order Tracking
 - Customers can track the current status of their orders.
 - Customers can view the expected delivery information.
+
+
+Discount Codes
+- Customers can apply promo code WELCOME20 at checkout.
