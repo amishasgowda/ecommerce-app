@@ -1,17 +1,7 @@
-git statusi
-git stash listgit status
-git stash list
+
 Payment Timeout Handling
 - Payment requests are monitored for timeout conditions.
 - Timed-out payments are marked for retry.
-
-
-
-git switch master
-git pull --ff-only
-git switch -c feature/order-notifications
-git status
-
 
 
 
@@ -39,3 +29,8 @@ Order Tracking
 
 Discount Codes
 - Customers can apply promo code WELCOME20 at checkout.
+
+
+Order Tracking
+- Customers can track the current status of their orders.
+- Customers can view the expected delivery information.
